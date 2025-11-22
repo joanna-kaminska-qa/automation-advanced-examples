@@ -1,5 +1,12 @@
 # kodilla-advanced-tests
 
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Gradle](https://img.shields.io/badge/Gradle-8-green)
+![JUnit](https://img.shields.io/badge/JUnit-5.9.3-purple)
+![Mockito](https://img.shields.io/badge/Mockito-5.3.1-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 ## Overview
 This project contains exercises and homework tasks completed as part of a module in the **Kodilla "Automated Tester" Java course**, focusing on **Mocking** in Java 21.
 
